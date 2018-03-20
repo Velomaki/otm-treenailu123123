@@ -1,3 +1,3 @@
 #### Moikka moi!
 
-OTM *v1* **treenailua**.
+OTM *viikon 1* **tehtävien tekoa**.
