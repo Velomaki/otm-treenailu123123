@@ -1,8 +1,8 @@
-Hellou
-Vasemmalla yläkulmassa näet kaikki commitit.
+Hello guys, nice 2 see ya!
+Vasemmalla yläkulmassa näet kaikki commitit. Näin on!
  Uusin tilanne ylimpänä.
  Uusimman commitin nimi on master.
  Klikkaamalla commitia, näet muissa ikkunoissa commitiin liittyviä tietoja.
- Oikealla alakulmassa näet ne tiedostot, jotka ovat muuttuneet comm
+ 
 
 
