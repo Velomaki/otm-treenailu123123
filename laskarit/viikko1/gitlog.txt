@@ -1,0 +1,126 @@
+commit 91bef0f287a1d8354cee35fd6180b5628da791f9
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:33:36 2018 +0200
+
+    treenailua
+
+ hakemistoja/file1.txt  | 1 -
+ hakemistoja/file2.txt  | 0
+ hakemistoja/file22.txt | 0
+ hakemistoja/file3.txt  | 3 +++
+ 4 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 778e99622fa2dc9ac68f8a046ee46f5d7e406f66
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:27:46 2018 +0200
+
+    uusii failei
+
+ hakemistoja/file1.txt | 1 +
+ hakemistoja/file2.txt | 0
+ hakemistoja/file3.txt | 0
+ 3 files changed, 1 insertion(+)
+
+commit 6b054df6a7d3be0c109300f8e6446ee1509f19d2
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:22:47 2018 +0200
+
+    kolmascommit
+
+ kolmas.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 4f6e9ca58c7f29f52cf527425c532c11c3f19cb2
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:19:17 2018 +0200
+
+    taas yx edit
+
+ eka.txt    | 6 +++---
+ kolmas.txt | 3 ++-
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+
+commit d7084e5a8a4564d6c1f68e302e7795f8771fe42b
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:16:43 2018 +0200
+
+    eka
+
+ eka.txt      | 8 ++++++++
+ tiedosto.txt | 8 --------
+ 2 files changed, 8 insertions(+), 8 deletions(-)
+
+commit 3b5b1e668c889a73a32ac64fb6e559828dae708b
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:14:43 2018 +0200
+
+    toinen oikeasti pois
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 2224a22eed66cef5f8981783c462725dba1e4a64
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:12:11 2018 +0200
+
+    muokattu taas tiedostoa
+
+ tiedosto.txt | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+commit aed7a78c6a612898ed5e366da471d692293580cb
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:11:06 2018 +0200
+
+    tiedostoedit
+
+ tiedosto.txt | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit cbae5f38d3934dfdd67f5ae37c7d017b85dc6ac9
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:07:28 2018 +0200
+
+    budjettiesitys
+
+ stuff/budjetti.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit a1bc64e8466aa6906251d624a0a65930937d338a
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:03:06 2018 +0200
+
+    sisaltoa tekstifileisiin
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 8d1433e808f3b6b9ba9166a7baad2de0281d47f4
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 12:01:14 2018 +0200
+
+    kolomas kappale
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 522c1361dbf0c178610c624c6786f2e45c448313
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 11:59:29 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit cf42d727e6c16fd5c06e0dc862004eedad3b3f08
+Author: Velomaki <velomaki@gmail.com>
+Date:   Tue Mar 20 11:56:52 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
